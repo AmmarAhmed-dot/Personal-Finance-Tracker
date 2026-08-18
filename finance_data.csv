@@ -1,0 +1,31 @@
+date,amount,category,description
+18-02-1998,1700.0,Expense,Grocery
+12-08-2026,1200.0,Income,Sale
+15-08-2026,1000.0,Expense,Grocery
+09-08-2026,3000.0,Income,Shop Sales
+07-08-2026,2500.0,Expense,Rent
+18-08-2026,2300.0,Income,Freelance
+19-08-2026,50.0,Expense,Coffee
+20-08-2026,150.0,Expense,Utilities
+21-08-2026,200.0,Expense,Dining Out
+22-08-2026,500.0,Income,Freelance Work
+23-08-2026,120.0,Expense,Transport
+24-08-2026,80.0,Expense,Subscriptions
+25-08-2026,300.0,Expense,Groceries
+26-08-2026,1000.0,Income,Sale
+27-08-2026,45.0,Expense,Stationery
+28-08-2026,2000.0,Income,Salary
+29-08-2026,150.0,Expense,Gym Membership
+30-08-2026,400.0,Expense,Car Insurance
+31-08-2026,60.0,Expense,Internet Bill
+01-09-2026,1200.0,Expense,Rent
+02-09-2026,300.0,Income,Gift
+03-09-2026,90.0,Expense,Dining Out
+04-09-2026,220.0,Expense,Electric Bill
+05-09-2026,180.0,Expense,Water Bill
+06-09-2026,1500.0,Income,Consulting
+07-09-2026,75.0,Expense,Movies
+08-09-2026,350.0,Expense,Groceries
+09-09-2026,40.0,Expense,Coffee
+10-09-2026,2500.0,Income,Shop Sales
+11-09-2026,130.0,Expense,Transport

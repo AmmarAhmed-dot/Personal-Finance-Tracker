@@ -16,7 +16,7 @@ A simple Python-based Personal Finance Tracker that allows you to manage your da
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/AmmarAhmed-dot/Personal-Finance-Tracker.git
    cd Personal-Finance-Tracker
    ```
 

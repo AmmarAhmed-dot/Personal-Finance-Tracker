@@ -9,8 +9,8 @@ env/
 ENV/
 
 # Project Data (ignore personal finance data to prevent accidental pushes)
-finance_data.csv
-*.csv
+# finance_data.csv
+# *.csv
 
 # OS generated files
 .DS_Store
